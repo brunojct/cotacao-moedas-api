@@ -6,15 +6,15 @@
 
 ### Objetivo
 
-Construir um sistema através do tkinter no qual o usuário consegue consultar a cotação de diferentes moedas de duas maneiras:
+Construir um sistema através do tkinter no qual o usuário consegue consultar a cotação de diferentes moedas de duas maneiras:<br><br>
 
 - Primeira Maneira: Cotação de uma única moeda em um único dia.
 
-Por exemplo: cotação do dólar canadense no dia 12/06/2022.
+Por exemplo: cotação do dólar canadense no dia 12/06/2022.<br><br>
 
 - Segunda Maneira:  Cotação de múltiplas moedas em um determinado período.
 
-Por exemplo: cotação do euro, bitcoin e dólar no período de 20/07/2022 até 14/08/2022.
+Por exemplo: cotação do euro, bitcoin e dólar no período de 20/07/2022 até 14/08/2022.<br><br>
 
 
 A busca dos valores é feita através do consumo de uma API.
